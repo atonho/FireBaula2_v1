@@ -27,6 +27,16 @@ export class AppComponent {
       icon: 'person-add'
     },
     {
+      title: 'Cadastro de Funcionarios',
+      url: '/funcionario-cadastro',
+      icon: 'person-add'
+    },
+    {
+      title: 'Cadastro de Chamados',
+      url: '/chamado-cadastro',
+      icon: 'person-add'
+    },
+    {
       title: 'Logoff',
       url: '/logoff',
       icon: 'log-out'
